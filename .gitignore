@@ -172,4 +172,5 @@ secrets.yml
 # Local development files
 local/
 dev/
-development/ 
+development/ bin/
+target/
