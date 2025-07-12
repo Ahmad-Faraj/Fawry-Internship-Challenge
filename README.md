@@ -16,6 +16,10 @@ Simple Java OOP console application demonstrating SOLID principles and design pa
 - **Interface Segregation**: Focused interfaces
 - **Dependency Inversion**: High-level modules don't depend on low-level modules
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4be125c0-7a59-48db-a412-6c0f8975968e" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3d5579cf-472a-461a-855b-4309d96e6ecd" />
+
+
 ## How to Compile
 
 ```bash
